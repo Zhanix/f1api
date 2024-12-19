@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListF1Api</string>
+    <string name="grid">grid</string>
+    <string name="list">list</string>
+    <string name="nama">Zaidan Alfarizy Putra Fadilah</string>
+    <string name="email">zaidan.apf@gmail.com</string>
+    <string name="blank">*if picture blank
+    you must ask </string>
+    <string name="about">About</string>
+</resources>
